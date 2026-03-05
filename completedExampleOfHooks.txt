@@ -1,0 +1,4 @@
+
+Completed example of hooks can be found on below repository:
+https://github.com/ganatram/myhooks
+
